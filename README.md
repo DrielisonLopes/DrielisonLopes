@@ -6,7 +6,6 @@
 - 👨🏻‍💻 With what I've learned, I try to share my knowledge and help those who are starting programming
 - 💬 Ask me about something i can also help. ;)
 - 📫 How to reach me: @DrielisonLopes
-- ⚡ Fun fact: I'm naturally shy, but I've already had a humor channel on youtube.
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
