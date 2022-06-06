@@ -1,4 +1,4 @@
-<h1>Hi Dev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Drielison Lopes</h1>
+<h1>Hi Dev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30">, I'm Drielison Lopes</h1>
 
 <div align="center">
   <a href="https://github.com/DrielisonLopes">
