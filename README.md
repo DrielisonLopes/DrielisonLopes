@@ -10,27 +10,26 @@
   <img align="center" alt="Dri-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&ensp;
   <img align="center" alt="Dri-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&ensp;
   <img align="center" alt="Dri-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&ensp;
-  <img align="center" alt="Dri-Ts" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">&ensp;
+  <img align="center" alt="Dri-JQuery" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">&ensp;
   <img align="center" alt="Dri-React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&ensp;
   <img align="center" alt="Dri-Csharp" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">&ensp;
-  <img align="center" alt="Dri-Node" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">&ensp;
-  <img align="center" alt="Dri-SQL" height="60" width="60" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">&ensp;
   <img align="center" alt="Dri-Bootstrap" height="60" width="60" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">&ensp;
   <img align="center" alt="Dri-SASS" height="60" width="60" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="Dri-Node" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">&ensp;  
+  <img align="center" alt="Dri-SQL" height="60" width="60" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">&ensp;
 </div>
   
   ##
   <img align="left" alt="" height="200" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202201/684058_PSo4IfPE.png">
   
-  - 🔭 I’m currently working on developing my FullStack Skills ^_^
-- 🌱 Every day i am learning more HTML, CSS, JAVASCRIPT, TYPESCRIPT, REACT, REACT NATIVE, NEXT.js and NODEJS and so on...
-- 👨🏻‍💻 With what I've learned, I try to share my knowledge and help those who are starting programming
-- 💬 Ask me about something i can also help. ;)
-- 📫 How to reach me: @DrielisonLopes
+- 💻 Currently focused on honing my Full Stack skills!
+- 🌱 Constantly expanding my knowledge in HTML, CSS, JavaScript, JQuery, React, Next.js, Node.js, and more!
+- 👨🏻‍💻 Passionate about sharing my knowledge and helping aspiring programmers get started.
+- 💬 Feel free to reach out to me for assistance or any questions you may have ;)
  
 <div> 
-  <a href = "mailto:drielisonl@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href ="mailto:drielisonl@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/drielison-lopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "https://web.whatsapp.com/send?phone=5571981705176" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href = "https://web.whatsapp.com/send?phone=351937917541" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "https://codepen.io/drielisonlopes"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
 </div>
