@@ -22,11 +22,11 @@
   ##
   <img align="left" alt="" height="200" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202201/684058_PSo4IfPE.png">
   
-- 💻 Currently focused on honing my Full Stack skills!
 - 🌱 Constantly expanding my knowledge in HTML, CSS, JavaScript, JQuery, React, Next.js, Node.js, and more!
 - 👨🏻‍💻 Passionate about sharing my knowledge and helping aspiring programmers get started.
 - 💬 Feel free to reach out to me for assistance or any questions you may have ;)
 - 🎮 I have a list of more than 500 games that I've successfully completed on different platforms (Nitendo, PS, Mobile...)
+- 💻 <a href="https://drielison-lopes.vercel.app/">Portfolio
  
 <div> 
   <a href ="mailto:drielisonl@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
