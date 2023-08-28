@@ -12,13 +12,14 @@
   <img align="center" alt="Dri-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&ensp;
   <img align="center" alt="Dri-JQuery" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">&ensp;
   <img align="center" alt="Dri-React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&ensp;
+  <img align="center" alt="Dri-TypeScript" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">&ensp;
+
   <img align="center" alt="Dri-Next" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">&ensp;
   <img align="center" alt="Dri-Angular" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">&ensp;
   <img align="center" alt="Dri-Csharp" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">&ensp;
   <img align="center" alt="Dri-Bootstrap" height="60" width="60" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">&ensp;
   <img align="center" alt="Dri-SASS" height="60" width="60" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Dri-Node" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">&ensp;  
-  <img align="center" alt="Dri-SQL" height="60" width="60" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">&ensp;
 </div>
   
   ##
