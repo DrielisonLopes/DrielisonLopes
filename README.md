@@ -10,15 +10,19 @@
   <img align="center" alt="logo-HTML" height="58" width="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&ensp;
   <img align="center" alt="logo-CSS" height="58" width="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&ensp;
   <img align="center" alt="logo-Js" height="58" width="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&ensp;
-  <img align="center" alt="logo-TypeScript" height="58" width="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">&ensp;
-  <img align="center" alt="logo-JQuery" height="58" width="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">&ensp;
-  <img align="center" alt="logo-React" height="58" width="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&ensp;
-  <img align="center" alt="logo-Next" height="58" width="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">&ensp;
-  <img align="center" alt="logo-Angular" height="58" width="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">&ensp;
-  <img align="center" alt="logo-Csharp" height="58" width="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">&ensp;
   <img align="center" alt="logo-Bootstrap" height="58" width="58" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">&ensp;
   <img align="center" alt="logo-SASS" height="58" width="58" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="logo-Node" height="58" width="58" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">&ensp;  
+  <img align="center" alt="logo-JQuery" height="58" width="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">&ensp;
+  <img align="center" alt="logo-React" height="58" width="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&ensp;
+</div>
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="logo-Next" height="58" width="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">&ensp;
+  <img align="center" alt="logo-Angular" height="58" width="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">&ensp;
+  <img align="center" alt="logo-TypeScript" height="58" width="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">&ensp;
+  <img align="center" alt="logo-Csharp" height="58" width="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">&ensp;
+  <img align="center" alt="logo-Firebase" height="58" width="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg">&ensp;
+  <img align="center" alt="logo-Node" height="58" width="58" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">&ensp;
+  <img align="center" alt="logo-Git" height="58" width="58" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&ensp;
 </div>
   
   ##
