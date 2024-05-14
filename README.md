@@ -31,7 +31,7 @@
 - 🌱 Constantly expanding my knowledge in HTML, CSS, JavaScript, JQuery, React, Next.js, ..., and more!
 - 👨🏻‍💻 Passionate about sharing my knowledge and helping aspiring programmers get started.
 - 💬 Feel free to reach out to me for assistance or any questions you may have ;)
-- 🎮 I have a list of more than 540 games that I've successfully completed on different platforms (Playstation, SNES, GAME BOY, ARCADE, Mobile...)
+- 🎮 I have a list of more than 550 games that I've successfully completed on different platforms (Playstation, SNES, GAME BOY, ARCADE, Mobile...)
 - 💻 <a href="https://drielison-lopes.vercel.app/">Portfolio
  
 <div> 
