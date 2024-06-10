@@ -12,6 +12,7 @@
   <img align="center" alt="logo-Js" height="58" width="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&ensp;
   <img align="center" alt="logo-Bootstrap" height="58" width="58" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">&ensp;
   <img align="center" alt="logo-SASS" height="58" width="58" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="logo-Tailwind" height="58" width="58" src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg">
   <img align="center" alt="logo-JQuery" height="58" width="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">&ensp;
   <img align="center" alt="logo-React" height="58" width="58" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&ensp;
 </div>
