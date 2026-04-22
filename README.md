@@ -6,23 +6,23 @@
 
 <samp>🛠️ Some of the technologies I've worked:</samp>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="logo-HTML" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&ensp;
-  <img align="center" alt="logo-CSS" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&ensp;
-  <img align="center" alt="logo-Js" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&ensp;
-  <img align="center" alt="logo-TypeScript" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">&ensp;
-  <img align="center" alt="logo-Bootstrap" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">&ensp;
-  <img align="center" alt="logo-SASS" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">&ensp;
-  <img align="center" alt="logo-Tailwind" height="36" width="36" src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg">&ensp;
-  <img align="center" alt="logo-JQuery" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">&ensp;
-  <img align="center" alt="logo-React" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&ensp;
-  <img align="center" alt="logo-Next" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">&ensp;
-  <img align="center" alt="logo-Angular" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">&ensp;
-  <img align="center" alt="logo-Csharp" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">&ensp;
-  <img align="center" alt="logo-GraphQL" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">&ensp;
-  <img align="center" alt="logo-Firebase" height="36" width="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg">&ensp;
-  <img align="center" alt="logo-Node" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">&ensp;
-  <img align="center" alt="logo-Git" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">&ensp;
+<div style="display: inline_block">
+  <img alt="logo-HTML" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="logo-CSS" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="logo-Js" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="logo-TypeScript" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img alt="logo-Bootstrap" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
+  <img alt="logo-SASS" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img alt="logo-Tailwind" height="36" src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg">
+  <img alt="logo-JQuery" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+  <img alt="logo-React" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="logo-Next" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img alt="logo-Angular" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img alt="logo-Csharp" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img alt="logo-GraphQL" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
+  <img alt="logo-Firebase" height="36" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg">
+  <img alt="logo-Node" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img alt="logo-Git" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
 ##
